@@ -1,0 +1,11 @@
+{
+  "name": "Connect CI",
+  "short_name": "Connect CI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF7A00",
+  "description": "App de rencontre 100% ivoirienne",
+  "orientation": "portrait",
+  "icons": []
+}
